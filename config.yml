@@ -1,0 +1,4 @@
+title: "André Helgert"
+description: "Kurzbeschreibung (optional)"
+theme: jekyll-theme-minimal   # selbes GitHub-Theme wie bei Minsu
+markdown: kramdown
