@@ -9,10 +9,10 @@ title: "André Helgert"
 <img src="imgs/profil.jpg" alt="Portrait" width="200" />
 
 ## CONTACT INFORMATION
-Human Factors & Gender Studies - University of Applied Sciences Ruhr West 
-Institute of Computer Science  
-(email) andre.helgert@hs-ruhrwest.de 
-(google scholar) <https://scholar.google.com/citations?user=9oLSwT8AAAAJ&hl=en>
+* Human Factors & Gender Studies - University of Applied Sciences Ruhr West 
+* Institute of Computer Science  
+* (email) andre.helgert@hs-ruhrwest.de 
+* (google scholar) <https://scholar.google.com/citations?user=9oLSwT8AAAAJ&hl=en>
 
 ## RESEARCH INTERESTS
 * Virtual Reality, Mixed Reality, Immersive Environments  
