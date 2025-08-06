@@ -1,7 +1,4 @@
----
-layout: default
-title: "André Helgert"
----
+
 
 # André Helgert
 
