@@ -110,6 +110,7 @@ Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in
 Computing Systems (pp. 1–7). ACM.
 
 ## PROFESSIONAL SERVICES
+* Program Commitee Member for the 8th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR26)
 * Program Commitee Member for the 7th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR25)
 * Program Commitee Member for the 6th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR24) 
 * Program Commitee Member for the 2025 "Successful VR/AR learning scenarios" competition of the Society for Information Technology Germany (AVRiL25)  
