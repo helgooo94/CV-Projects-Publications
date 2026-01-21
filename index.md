@@ -108,6 +108,12 @@ Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR) (
 Enhancing video-based collaborative learning by using a multi-party AI-driven chatbot. In
 Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in
 Computing Systems (pp. 1–7). ACM.
+25. **Helgert**, A., Erle, L., Dittmann, A., Eimler, S. C., & Straßmann, C. (2025). Lost in Transparency? Exploring Uni- and Multimodal Transparency Declarations in Human-Robot Interaction. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1272–1279). IEEE. https://doi.org/10.1109/RO-MAN63969.2025.11217627 
+26. **Helgert**, A., Erle, L., Dittmann, A., Eimler, S. C., & Straßmann, C. (2025). When Robots Spill the Beans: Exploring Transparency Declarations in Human-Robot Interaction [Research poster]. Zenodo. https://doi.org/10.5281/zenodo.17520493 
+27. Erle, L., **Helgert**, A., Dittmann, A., Straßmann, C., & Eimler, S. C. (2025). Tolerance for Technological Hiccups: Personality Predispositions and Responses to Erroneous Robotic Systems [Research poster]. Zenodo. https://doi.org/10.5281/zenodo.17531060 
+
+
+
 
 ## PROFESSIONAL SERVICES
 * Program Commitee Member for the 8th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR26)
