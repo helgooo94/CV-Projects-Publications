@@ -110,12 +110,15 @@ Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in
 Computing Systems (pp. 1–7). ACM.
 25. **Helgert**, A., Erle, L., Dittmann, A., Eimler, S. C., & Straßmann, C. (2025). Lost in Transparency? Exploring Uni- and Multimodal Transparency Declarations in Human-Robot Interaction. In 2025 34th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN) (pp. 1272–1279). IEEE. https://doi.org/10.1109/RO-MAN63969.2025.11217627 
 26. **Helgert**, A., Erle, L., Dittmann, A., Eimler, S. C., & Straßmann, C. (2025). When Robots Spill the Beans: Exploring Transparency Declarations in Human-Robot Interaction [Research poster]. Zenodo. https://doi.org/10.5281/zenodo.17520493 
-27. Erle, L., **Helgert**, A., Dittmann, A., Straßmann, C., & Eimler, S. C. (2025). Tolerance for Technological Hiccups: Personality Predispositions and Responses to Erroneous Robotic Systems [Research poster]. Zenodo. https://doi.org/10.5281/zenodo.17531060 
+27. Erle, L., **Helgert**, A., Dittmann, A., Straßmann, C., & Eimler, S. C. (2025). Tolerance for Technological Hiccups: Personality Predispositions and Responses to Erroneous Robotic Systems [Research poster]. Zenodo. https://doi.org/10.5281/zenodo.17531060
+28. Finkel, M., Erle, L., Timm, L., Arntz, A., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Need satisfaction in human-robot interactions in public spaces: A positive computing approach. International Journal of Social Robotics, 18(2), 21. Springer Netherlands.
+29. **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). A decade of human-robot interaction through immersive lenses: Reviewing extended reality as a research instrument in social robotics. arXiv preprint arXiv:2602.15840.
 
 
 
 
 ## PROFESSIONAL SERVICES
+* Program Commitee Member for the 2026 ACM "Mensch und Computer" Conference
 * Program Commitee Member for the 8th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR26)
 * Program Commitee Member for the 7th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR25)
 * Program Commitee Member for the 6th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR24) 
