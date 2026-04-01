@@ -118,7 +118,7 @@ Computing Systems (pp. 1–7). ACM.
 
 
 ## PROFESSIONAL SERVICES
-* Program Commitee Member for the 2026 ACM "Mensch und Computer" Conference
+* Associate Chair for the 2026 ACM "Mensch und Computer" Conference
 * Program Commitee Member for the 8th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR26)
 * Program Commitee Member for the 7th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR25)
 * Program Commitee Member for the 6th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR24) 
