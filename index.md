@@ -103,7 +103,7 @@ International Conference on Human-Robot Interaction (pp. 550–558). ACM/IEEE.
 23. **Helgert**, A., Eimler, S. C., & Gross, T. (2025). Beyond coding: Empowering HRI
 researchers with an authoring tool for simplified VR studies. In 2025 IEEE International
 Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR) (pp. 290–
-295). IEEE.
+295). IEEE. (**Best Demonstration Award**)
 24. **Helgert**, A., Weis, L., & Straßmann, C. (2025). Prompt it colorful with Rainbow Bot:
 Enhancing video-based collaborative learning by using a multi-party AI-driven chatbot. In
 Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in
@@ -112,7 +112,14 @@ Computing Systems (pp. 1–7). ACM.
 26. **Helgert**, A., Erle, L., Dittmann, A., Eimler, S. C., & Straßmann, C. (2025). When Robots Spill the Beans: Exploring Transparency Declarations in Human-Robot Interaction [Research poster]. Zenodo. https://doi.org/10.5281/zenodo.17520493 
 27. Erle, L., **Helgert**, A., Dittmann, A., Straßmann, C., & Eimler, S. C. (2025). Tolerance for Technological Hiccups: Personality Predispositions and Responses to Erroneous Robotic Systems [Research poster]. Zenodo. https://doi.org/10.5281/zenodo.17531060
 28. Finkel, M., Erle, L., Timm, L., Arntz, A., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Need satisfaction in human-robot interactions in public spaces: A positive computing approach. International Journal of Social Robotics, 18(2), 21. Springer Netherlands.
-29. **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). A decade of human-robot interaction through immersive lenses: Reviewing extended reality as a research instrument in social robotics. arXiv preprint arXiv:2602.15840.
+29. **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). A decade of human-robot interaction through immersive lenses: Reviewing extended reality as a research instrument in social robotics. arXiv preprint arXiv:2602.15840. (Accepted by ICSR + Art 2026)
+30. Eimler, S. C., Erle, L., Flood, D., Haiman, A., Häckert, L., Helgert, A., McGinness, L., & Yapici, B. (2026). The environmental cost of LLMs in AIED: Reporting and practices. In E. G. Blanchard, G. Chen, M. Chi, & S. Isotani (Eds.), Artificial Intelligence in Education. Late Breaking Results, WideAIED, Practitioners, Industry and Policies, Blue Sky, Doctoral Consortium, FoL Workshops and Tutorials, FoL Invited Papers (Communications in Computer and Information Science, Vol. 3032). Springer. https://doi.org/10.1007/978-3-032-29791-4_31
+31. **Helgert**, A., Dossena, G. L., & Eimler, S. C. (2026). Experiencing the twin transition: A virtual reality application showcasing facets of the circular economy. In Proceedings of Mensch und Computer 2026. (Accepted).
+32. Harmuth, G., Uboreck, J., Erle, L., **Helgert**, A., & Eimler, S. C. (2026). Connecting with rural identity: A low-threshold web-based digital spoil heap tour. In Proceedings of Mensch und Computer 2026. (Accepted).
+33. Biyikli, O., Al Hakim, H., Dossena, G. L., Imort, R.-D., **Helgert**, A., & Eimler, S. C. (2026). Inside the blockchain: Embodied microlearning in virtual reality. In Proceedings of Mensch und Computer 2026. (Accepted).
+34. Brokuf, A. S., Weiner, A., **Helgert**, A., & Eimler, S. C. (2026). Econauts: A gamification- and microlearning-based (mobile) approach to foster action competence within the circular economy transition. In Proceedings of Mensch und Computer 2026. (Accepted).
+35. Barenbrock, J. M., Mory, K., **Helgert**, A., Erle, L., Imort, R.-D., Dossena, G. L., & Eimler, S. C. (2026). Watched, judged, ashamed? How bystander reactions shape stress, shame, and evaluation of a social robot in a public space. In Proceedings of Mensch und Computer 2026. (Accepted).
+36. Erle, L., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Who Are We Designing For? Insights from an Expert Workshop on Diversity in Human–Robot Interaction. In Proceedings of the 18th International Conference on Social Robotics (ICSR 2026 + Art). (Conference forthcoming, **Best Paper Finalist**).
 
 
 
