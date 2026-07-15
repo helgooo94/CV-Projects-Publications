@@ -100,10 +100,10 @@ Virtual Reality (AIxVR). IEEE.
 22. **Helgert**, A., Eimler, S., & Gross, T. (2025). A technical user study on an authoring tool for
 simplifying VR study setups in HRI research. In HRI '25: Proceedings of the 2025 ACM/IEEE
 International Conference on Human-Robot Interaction (pp. 550–558). ACM/IEEE.
-23. **Helgert**, A., Eimler, S. C., & Gross, T. (2025). Beyond coding: Empowering HRI
+23. 🏆 **Helgert**, A., Eimler, S. C., & Gross, T. (2025). Beyond coding: Empowering HRI
 researchers with an authoring tool for simplified VR studies. In 2025 IEEE International
 Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR) (pp. 290–
-295). IEEE. (🏆 **Best Demonstration Award**)
+295). IEEE. (**Best Demonstration Award**)
 24. **Helgert**, A., Weis, L., & Straßmann, C. (2025). Prompt it colorful with Rainbow Bot:
 Enhancing video-based collaborative learning by using a multi-party AI-driven chatbot. In
 Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in
@@ -119,7 +119,7 @@ Computing Systems (pp. 1–7). ACM.
 33. Biyikli, O., Al Hakim, H., Dossena, G. L., Imort, R.-D., **Helgert**, A., & Eimler, S. C. (2026). Inside the blockchain: Embodied microlearning in virtual reality. In Proceedings of Mensch und Computer 2026. (Accepted).
 34. Brokuf, A. S., Weiner, A., **Helgert**, A., & Eimler, S. C. (2026). Econauts: A gamification- and microlearning-based (mobile) approach to foster action competence within the circular economy transition. In Proceedings of Mensch und Computer 2026. (Accepted).
 35. Barenbrock, J. M., Mory, K., **Helgert**, A., Erle, L., Imort, R.-D., Dossena, G. L., & Eimler, S. C. (2026). Watched, judged, ashamed? How bystander reactions shape stress, shame, and evaluation of a social robot in a public space. In Proceedings of Mensch und Computer 2026. (Accepted).
-36. Erle, L., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Who Are We Designing For? Insights from an Expert Workshop on Diversity in Human–Robot Interaction. In Proceedings of the 18th International Conference on Social Robotics (ICSR 2026 + Art). (Conference forthcoming, 🏆 **Best Paper Finalist**).
+36. 🏆 Erle, L., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Who Are We Designing For? Insights from an Expert Workshop on Diversity in Human–Robot Interaction. In Proceedings of the 18th International Conference on Social Robotics (ICSR 2026 + Art). (Conference forthcoming, 🏆 **Best Paper Finalist**).
 
 
 
