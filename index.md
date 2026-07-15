@@ -146,6 +146,7 @@ Computing Systems (pp. 1–7). ACM.
 * **AVRiL 2022 – Bronze Award**  - Competition: “Successful VR/AR Learning Scenarios” - Contribution: “DiSensity – A University-Wide Virtual-Reality Awareness Program”
 * **HRWStarters – Special Prize**  - Contest: HRWStarters Idea Competition - Idea: “DiSensity”
 * **Best Demonstration Award – IEEE AIxVR 2025**  - Demo: “Beyond Coding: Empowering HRI Researchers with an Authoring Tool for Simplified VR Studies”
+* **Best Paper Finalist - ICSR + Art 2026** - “Who Are We Designing For? Insights from an Expert Workshop on Diversity in Human–Robot Interaction”
 
 
 ---
