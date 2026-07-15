@@ -45,7 +45,7 @@ Systems Extended Abstracts (pp. 1–7).
 7. **Helgert**, A., Canbulat, A., Lingnau, A., & Straßmann, C. (2022). A framework for analyzing
 interactions in a video-based collaborative learning environment. In 2022 International
 Conference on Advanced Learning Technologies (ICALT) (pp. 125–127). IEEE.
-8. **Helgert**, A., Zielinska, L., Groeneveld, A., Kloos, C., Arntz, A., Straßmann, C., & Eimler, S. C.
+8. 🏆 **Helgert**, A., Zielinska, L., Groeneveld, A., Kloos, C., Arntz, A., Straßmann, C., & Eimler, S. C.
 (2022). DiSensity: Ein hochschulweites Virtual Reality Sensibilisierungsprogramm.
 9. Straßmann, C., **Helgert**, A., & Lingnau, A. (2022a). Effects of a collaborative videolearning-tool on flow perception, cognitive load and usability evaluation. In 4th
 International Conference on Higher Education Learning Methodologies and Technologies
@@ -119,7 +119,7 @@ Computing Systems (pp. 1–7). ACM.
 33. Biyikli, O., Al Hakim, H., Dossena, G. L., Imort, R.-D., **Helgert**, A., & Eimler, S. C. (2026). Inside the blockchain: Embodied microlearning in virtual reality. In Proceedings of Mensch und Computer 2026. (Accepted).
 34. Brokuf, A. S., Weiner, A., **Helgert**, A., & Eimler, S. C. (2026). Econauts: A gamification- and microlearning-based (mobile) approach to foster action competence within the circular economy transition. In Proceedings of Mensch und Computer 2026. (Accepted).
 35. Barenbrock, J. M., Mory, K., **Helgert**, A., Erle, L., Imort, R.-D., Dossena, G. L., & Eimler, S. C. (2026). Watched, judged, ashamed? How bystander reactions shape stress, shame, and evaluation of a social robot in a public space. In Proceedings of Mensch und Computer 2026. (Accepted).
-36. 🏆 Erle, L., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Who Are We Designing For? Insights from an Expert Workshop on Diversity in Human–Robot Interaction. In Proceedings of the 18th International Conference on Social Robotics (ICSR 2026 + Art). (Conference forthcoming, 🏆 **Best Paper Finalist**).
+36. Erle, L., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Who Are We Designing For? Insights from an Expert Workshop on Diversity in Human–Robot Interaction. In Proceedings of the 18th International Conference on Social Robotics (ICSR 2026 + Art). (Conference forthcoming, 🏆 **Best Paper Finalist**).
 
 
 
