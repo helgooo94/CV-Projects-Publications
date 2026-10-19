@@ -120,12 +120,35 @@ Computing Systems (pp. 1–7). ACM.
 34. Brokuf, A. S., Weiner, A., **Helgert**, A., & Eimler, S. C. (2026). Econauts: A gamification- and microlearning-based (mobile) approach to foster action competence within the circular economy transition. In Proceedings of Mensch und Computer 2026. (Accepted).
 35. Barenbrock, J. M., Mory, K., **Helgert**, A., Erle, L., Imort, R.-D., Dossena, G. L., & Eimler, S. C. (2026). Watched, judged, ashamed? How bystander reactions shape stress, shame, and evaluation of a social robot in a public space. In Proceedings of Mensch und Computer 2026. (Accepted).
 36. 🏆 Erle, L., **Helgert**, A., Straßmann, C., & Eimler, S. C. (2026). Who Are We Designing For? Insights from an Expert Workshop on Diversity in Human–Robot Interaction. In Proceedings of the 18th International Conference on Social Robotics (ICSR 2026 + Art). (Conference forthcoming, **Best Paper Finalist**).
+37. Dossena, G. L., Erle, L., **Helgert**, A., & Eimler, S. C. (2026). Extended reality for circular economy: A scoping review. Frontiers in Virtual Reality, 7. https://doi.org/10.3389/frvir.2026.1894825
+38. Eimler, S. C., Handmann, U., Baker, N., Barenbrock, J. M., Drechsler, A.-M., Dossena, G. L., Erle, L., **Helgert**, A., Imort, R.-D., Rohrschneider, D., Stehr, J., & Szabó-Muller, P. (2026). Driving the transformation: A course concept preparing for a sustainable future. In Proceedings of HELMeTO 2026.
+39. **Helgert**, A., Dossena, G. L., & Eimler, S. C. (2026). Immersive transformation: A VR-based environment featuring twin transition. In Proceedings of HELMeTO 2026.
 
 
+## SUPERVISED BACHELOR’S AND MASTER’S THESES
+* Master’s Thesis: Closing the Loop: Virtual Reality-Based Education for Circular Production Systems (Okan Biyikli, ongoing)
+* Bachelor’s Thesis: Anforderungsanalyse und Konzeption eines kontextsensitiven KI-Companions für ein VR-Authoring-Tool [Requirements Analysis and Design of a Context-Sensitive AI Companion for a VR Authoring Tool] (Irem Cam, 2026)
+* Master’s Thesis: Micro-Learning Games zur Vermittlung von Circular Economy bei Schülern [Micro-Learning Games for Teaching the Circular Economy to School Students] (Jetmire Loki-Selmani, 2026)
+* Bachelor’s Thesis: Meet Me! Effekte der Interaktion mit Role Models in Virtual Reality auf das Interesse von Mädchen und Jungen an MINT [Meet Me! Effects of Interacting with Role Models in Virtual Reality on Girls’ and Boys’ Interest in STEM] (Nadire Kumaç, 2024)
+* Bachelor’s Thesis: Implementierung und Evaluation von State of the Art Self-Assessment und Locomotion Funktionen in Virtual Reality [Implementation and Evaluation of State-of-the-Art Self-Assessment and Locomotion Functions in Virtual Reality] (Okan Biyikli, 2024)
+* Master’s Thesis: Tinnitus erfahrbar machen – Sensibilisierung und Aufklärung mit Hilfe von Virtual Reality [Experiencing Tinnitus: Raising Awareness and Educating with Virtual Reality] (Dan Heilmann, 2023)
+* Bachelor’s Thesis: Spielend Programmieren lernen: Eine interviewbasierte Analyse der Akzeptanz und Präferenzen digitaler Lernmedien für Kinder der Primarstufe [Learning to Code Through Play: An Interview-Based Analysis of the Acceptance of and Preferences for Digital Learning Media Among Primary School Children] (Marc Velmer, 2023)
+* Bachelor’s Thesis: Entwicklung und qualitative Analyse eines Interventionsprogramms in Virtual Reality zur Sensibilisierung von sexualisierter Belästigung [Development and Qualitative Analysis of a Virtual Reality Intervention Program to Raise Awareness of Sexual Harassment] (Talia Deckardt, 2023)
 
+## SUPERVISED MASTER’S PROJECTS AND STUDENT PROJECTS
+* [Platzhalter] (Emily Rudolf, Aiden Mäder, Sergei Mankov, Annalena Gjonkolaj)
+* Econauts: A Gamification- and Microlearning-based (mobile) Approach to Foster Action Competence within the Circular Economy Transition (Anna Sophia Brokuf, Adrian Weiner, 2026)
+* From Interviews to Evaluation: An Echeloned Design Science Study of a Requirements-Driven, LLM-Supported Campus Service Robot (Yousef Ahmad, Hussein Daoud, Hamidollah Rasouli, Rukiye Sentürk, Bako Yassin, 2026)
+* Inside the Blockchain: Embodied Microlearning in Virtual Reality (Okan Biyikli, Hussein Al Hakim, Sergei Mankov, Gian-Luca Dossena, Ramón-Darius Imort, 2026)
+* DigiFall improved: Mit UX-Engineering die Kooperation in transdisziplinären Teams maximieren [DigiFall Improved: Maximizing Cooperation in Transdisciplinary Teams Through UX Engineering] (Rozan Alraie, Irem Çam, Anne Holletschke, Gerrit Oswald, 2025)
+* Component for Creating Interactive Adaptive Video (Ewo Tchougang Yann, Emerick Mael Ndappe Djoteng, 2024)
+* Der Einfluss von Sprachassistenten auf die Kaufentscheidung durch Kundenrezensionen und Licht [The Influence of Voice Assistants on Purchase Decisions Through Customer Reviews and Light] (Marty Burghardt, Alina Grewe, Pavel Nguimkeng, 2023)
+* Learnflix: Information Exporting and Sharing Feature (Hung Cuong Pham, Fadma Ahkim, 2023)
+* A Perspective-Taking Virtual Reality Scenario About Domestic Violence (Kai Große Büning, 2022)
 
 ## PROFESSIONAL SERVICES
 * Associate Chair for the 2026 ACM "Mensch und Computer" Conference
+* Program Commitee Member for the 9th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR27)
 * Program Commitee Member for the 8th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR26)
 * Program Commitee Member for the 7th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR25)
 * Program Commitee Member for the 6th IEEE International Conference on Artificial Intelligence & eXtended and Virtual Reality (AIxVR24) 
