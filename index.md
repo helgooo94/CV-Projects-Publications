@@ -136,7 +136,7 @@ Computing Systems (pp. 1–7). ACM.
 * Bachelor’s Thesis: Entwicklung und qualitative Analyse eines Interventionsprogramms in Virtual Reality zur Sensibilisierung von sexualisierter Belästigung [Development and Qualitative Analysis of a Virtual Reality Intervention Program to Raise Awareness of Sexual Harassment] (Talia Deckardt, 2023)
 
 ## SUPERVISED MASTER’S PROJECTS AND STUDENT PROJECTS
-* [Platzhalter] (Emily Rudolf, Aiden Mäder, Sergei Mankov, Annalena Gjonkolaj)
+* A Field Study on Social Robots in City Halls (Emily Rudolf, Aiden Mäder, Sergei Mankov, Annalena Gjonkolaj, 2026, ongoing)
 * Econauts: A Gamification- and Microlearning-based (mobile) Approach to Foster Action Competence within the Circular Economy Transition (Anna Sophia Brokuf, Adrian Weiner, 2026)
 * From Interviews to Evaluation: An Echeloned Design Science Study of a Requirements-Driven, LLM-Supported Campus Service Robot (Yousef Ahmad, Hussein Daoud, Hamidollah Rasouli, Rukiye Sentürk, Bako Yassin, 2026)
 * Inside the Blockchain: Embodied Microlearning in Virtual Reality (Okan Biyikli, Hussein Al Hakim, Sergei Mankov, Gian-Luca Dossena, Ramón-Darius Imort, 2026)
